@@ -1,0 +1,2 @@
+# Azure-Honeynet-Live-Attack-Detection-NSG-SQL-Microsoft-Sentinel
+Built a live Azure Honeynet by intentionally exposing Windows and Linux VMs to the internet, then used Microsoft Sentinel (SIEM) to ingest and analyse real-world attack data. Configured NSG Flow Logs, Data Collection Rules, Defender for Cloud, and GeoIP watchlists. Demonstrated RDP, SQL, and SSH brute-force detection using KQL queries.
