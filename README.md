@@ -26,7 +26,7 @@
 
 | File | Description |
 | --- | --- |
-| [HoneyNet_Project.docx](./HoneyNet_Project.docx) | Complete project documentation with screenshots |
+| [HoneyNet_Project.pdf](./HoneyNet_Project.pdf) | Complete project documentation with screenshots |
 | README.md | Project overview |
 
 ---
