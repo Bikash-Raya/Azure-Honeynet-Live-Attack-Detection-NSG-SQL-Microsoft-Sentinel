@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍯 Azure Honeynet — Live Attack Detection with NSG, SQL & Microsoft Sentinel
+# 🍯 Azure Honeynet - Live Attack Detection with NSG, SQL & Microsoft Sentinel
 
 ![Domain](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-blue?style=for-the-badge)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Azure%20Honeynet-red?style=for-the-badge)
